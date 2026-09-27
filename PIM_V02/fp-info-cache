@@ -1,4 +1,11 @@
-27251202519017616
+27261945136184104
+5040501291
+CONN_5040501291_MOL
+
+5040501291 
+0
+14
+14
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60179,6 +60186,13 @@ CustomFootprints
 28
 28
 CustomFootprints
+5040501291
+
+5040501291 
+0
+14
+14
+CustomFootprints
 ACT45B-101-2P-TL003_TDK
 
 ACT45B-101-2P-TL003 
@@ -60273,6 +60287,13 @@ CustomFootprints
 SMBJ16A
 
 SMBJ16A 
+0
+2
+2
+CustomFootprints
+SRP5015TA-2R2M
+
+
 0
 2
 2
@@ -98783,6 +98804,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+SRP5015TA-2R2M
+IND_SRP5015TA_BRN-L
+
+SRP5015TA-2R2M 
+0
+2
+2
+SRP5015TA-2R2M
+IND_SRP5015TA_BRN-M
+
+SRP5015TA-2R2M 
+0
+2
+2
+SRP5015TA-2R2M
+SRP5015TA-2R2M
+
+SRP5015TA-2R2M 
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
