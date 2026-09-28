@@ -37184,7 +37184,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 387.985 144.78 0)
+		(at 386.08 144.78 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37193,7 +37193,7 @@
 		(dnp no)
 		(uuid "af8e20b0-81ba-4857-8e17-186a3e33ba7b")
 		(property "Reference" "#PWR0114"
-			(at 387.985 148.59 0)
+			(at 386.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37202,7 +37202,7 @@
 			)
 		)
 		(property "Value" "+3V3_MCU"
-			(at 392.303 140.716 0)
+			(at 390.398 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37211,7 +37211,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 387.985 144.78 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37220,7 +37220,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 387.985 144.78 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37229,7 +37229,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 387.985 144.78 0)
+			(at 386.08 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37642,7 +37642,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 387.985 148.59 0)
+		(at 386.08 148.59 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -37651,7 +37651,7 @@
 		(dnp no)
 		(uuid "b4eff212-9b4b-4aeb-a17e-8286dede4af5")
 		(property "Reference" "R59"
-			(at 389.763 150.368 90)
+			(at 387.858 150.368 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37660,7 +37660,7 @@
 			)
 		)
 		(property "Value" "10kR"
-			(at 385.953 151.13 90)
+			(at 384.048 151.13 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37669,7 +37669,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 387.985 148.59 0)
+			(at 386.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37678,7 +37678,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 387.985 148.59 0)
+			(at 386.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37687,7 +37687,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 387.985 148.59 0)
+			(at 386.08 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37696,7 +37696,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" ""
-			(at 387.985 148.59 90)
+			(at 386.08 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37705,7 +37705,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 387.985 148.59 90)
+			(at 386.08 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37714,7 +37714,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 387.985 148.59 90)
+			(at 386.08 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37723,7 +37723,7 @@
 			)
 		)
 		(property "MPN" "ERJ-3EKF1002V"
-			(at 387.985 148.59 90)
+			(at 386.08 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37732,7 +37732,7 @@
 			)
 		)
 		(property "PD" "RES SMD 10K OHM 1% 1/10W 0603"
-			(at 387.985 148.59 90)
+			(at 386.08 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37741,7 +37741,7 @@
 			)
 		)
 		(property "Note" ""
-			(at 387.985 148.59 90)
+			(at 386.08 148.59 90)
 			(effects
 				(font
 					(size 1.27 1.27)
